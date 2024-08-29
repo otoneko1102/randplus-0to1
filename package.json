@@ -1,7 +1,7 @@
 {
   "name": "@randplus/0to1",
   "version": "1.0.0",
-  "description": "This package is included in 'randplus'.",
+  "description": "In theory, the random functions in this package can also output 1. This package is included in 'randplus'.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
