@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/otoneko1102/randplus-0to1/issues"
   },
-  "homepage": "https://github.com/otoneko1102/randplus-0to1#readme"
+  "homepage": "https://github.com/otoneko1102/randplus-0to1#readme",
+  "dependencies": {
+    "fs-extra": "^11.2.0"
+  }
 }

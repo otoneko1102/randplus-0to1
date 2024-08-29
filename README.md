@@ -6,6 +6,7 @@ This package is included in '[randplus](https://www.npmjs.com/package/randplus)'
 ```js
 const random = require('@randplus/0to1');
 
+console.log(random.versions); // ['v1']
 console.log(random(1)); // Use v1 random function.
 console.log(random('1')); // Use v1 random function.
 console.log(random('v1')); // Use v1 random function.
